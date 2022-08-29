@@ -1,4 +1,4 @@
 .PHONY: install
 
 install:
-	sudo apt-get install libheif-examples
+	sudo apt install libheif-examples -y
