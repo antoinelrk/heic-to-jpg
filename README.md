@@ -1,6 +1,14 @@
 # HEIC2JPG Converter
 
-## All steps
+## Requirements
+
+Use the makefile to install ``libheif-examples`` packet:
+
+```sh
+make
+```
+
+## Script all steps
 
 1. Create ``_CONVERTED/`` destination folder
 2. List and convert ``*.HEIC`` files
